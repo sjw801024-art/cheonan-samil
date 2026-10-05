@@ -115,3 +115,62 @@
   .brand-image img{width:230px;max-height:48px !important}
   .hero-logo{max-width:100%}
 }
+
+
+/* Logo full-visibility fix v4 */
+.nav-wrap{
+  min-height:104px;
+  height:auto;
+  padding:10px 0;
+  overflow:visible;
+}
+.brand-image{
+  display:flex;
+  align-items:center;
+  width:430px;
+  max-width:46vw;
+  overflow:visible;
+  line-height:0;
+}
+.brand-image img{
+  display:block;
+  width:100%;
+  height:auto !important;
+  max-height:none !important;
+  object-fit:contain !important;
+  object-position:left center !important;
+  clip-path:none !important;
+}
+.hero-card-inner{
+  overflow:visible !important;
+}
+.hero-logo{
+  display:block;
+  width:100% !important;
+  max-width:430px !important;
+  height:auto !important;
+  max-height:none !important;
+  object-fit:contain !important;
+  object-position:center !important;
+  clip-path:none !important;
+  margin:0 auto 28px;
+}
+.footer-logo-wrap{
+  overflow:visible !important;
+}
+.footer-logo-wrap img{
+  width:100%;
+  height:auto !important;
+  max-height:none !important;
+  object-fit:contain !important;
+  clip-path:none !important;
+}
+@media(max-width:960px){
+  .nav-wrap{min-height:92px;padding:8px 0}
+  .brand-image{width:330px;max-width:62vw}
+}
+@media(max-width:640px){
+  .nav-wrap{min-height:82px;padding:7px 0}
+  .brand-image{width:235px;max-width:70vw}
+  .hero-logo{max-width:100% !important}
+}
