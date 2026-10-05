@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1331 224" role="img" aria-labelledby="t d">
+<title id="t">천안삼일교회</title><desc id="d">한 영혼을 제자삼아 주님께로 인도하는 천안삼일교회 로고</desc>
+<rect width="1331" height="224" fill="white"/>
+<g transform="translate(20 24)">
+  <rect x="0" y="0" width="150" height="150" rx="28" fill="#1b9b91"/>
+  <path d="M75 27v96M34 70h82" stroke="white" stroke-width="18" stroke-linecap="round"/>
+  <path d="M20 150h110" stroke="#86bf3f" stroke-width="12" stroke-linecap="round"/>
+</g>
+<text x="210" y="58" font-family="Arial,'Noto Sans KR',sans-serif" font-size="28" font-weight="600" fill="#4c5858">한 영혼을 제자삼아 주님께로 인도하는</text>
+<text x="210" y="145" font-family="Arial,'Noto Sans KR',sans-serif" font-size="76" font-weight="800" letter-spacing="-3">
+  <tspan fill="#111">천안</tspan><tspan fill="#138f96">삼일</tspan><tspan fill="#73a934">교회</tspan>
+</text>
+</svg>
