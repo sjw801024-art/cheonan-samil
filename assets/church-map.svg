@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="t d">
+<title id="t">천안삼일교회 약도</title><desc id="d">천안시 동남구 대흥로 29, 3층 천안삼일교회 오시는 길</desc>
+<rect width="1200" height="760" fill="#f8f8f3"/>
+<g stroke="#d7d9d2" stroke-width="34" fill="none" stroke-linecap="round">
+  <path d="M80 180H1120"/>
+  <path d="M210 60V650"/>
+  <path d="M500 40L690 700"/>
+  <path d="M960 110L790 690"/>
+</g>
+<g stroke="#fff" stroke-width="8" fill="none" stroke-linecap="round">
+  <path d="M80 180H1120"/><path d="M210 60V650"/><path d="M500 40L690 700"/><path d="M960 110L790 690"/>
+</g>
+<g font-family="Arial,'Noto Sans KR',sans-serif" font-size="24" fill="#4f5b5a">
+  <text x="70" y="120">천안시장</text><text x="85" y="235">남부오거리</text>
+  <text x="245" y="100">원성동</text><text x="455" y="105">충무로사거리</text>
+  <text x="905" y="82">천안IC 방면</text><text x="865" y="265">구성삼거리</text>
+  <text x="760" y="590">구성초등학교</text><text x="700" y="420">휴먼시아아파트</text>
+  <text x="815" y="500">공영주차장</text><text x="525" y="600">삼룡천</text>
+</g>
+<g transform="translate(690 330)">
+  <path d="M0 0c0-44 36-80 80-80s80 36 80 80c0 66-80 142-80 142S0 66 0 0z" fill="#138f96"/>
+  <circle cx="80" cy="0" r="31" fill="white"/>
+  <path d="M80-20v40M60 0h40" stroke="#138f96" stroke-width="8" stroke-linecap="round"/>
+</g>
+<rect x="700" y="480" width="355" height="95" rx="16" fill="white" stroke="#dfe4df" stroke-width="3"/>
+<text x="725" y="520" font-family="Arial,'Noto Sans KR',sans-serif" font-size="32" font-weight="800" fill="#103e42">천안삼일교회</text>
+<text x="725" y="555" font-family="Arial,'Noto Sans KR',sans-serif" font-size="22" fill="#5b6767">대흥로 29, 3층 · 공영주차장 옆</text>
+<rect x="90" y="665" width="1020" height="65" rx="16" fill="#103e42"/>
+<text x="600" y="705" text-anchor="middle" font-family="Arial,'Noto Sans KR',sans-serif" font-size="25" font-weight="700" fill="white">충남 천안시 동남구 대흥로 29, 3층 · 공영주차장 이용 가능</text>
+</svg>
