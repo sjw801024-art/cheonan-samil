@@ -57,3 +57,61 @@
   .board-post time{grid-column:1}
   .board-arrow{grid-column:2;grid-row:1/4}
 }
+
+
+/* Full church logo visibility */
+.site-header,
+.nav-wrap,
+.brand-image,
+.hero-card,
+.hero-card-inner,
+.footer-logo-wrap{
+  overflow:visible;
+}
+.brand-image{
+  display:flex;
+  align-items:center;
+  flex:0 1 410px;
+  min-width:0;
+  line-height:0;
+}
+.brand-image img{
+  display:block;
+  width:400px;
+  max-width:100%;
+  height:auto !important;
+  max-height:68px !important;
+  object-fit:contain;
+  object-position:left center;
+}
+.hero-logo{
+  display:block;
+  width:100%;
+  max-width:430px;
+  height:auto !important;
+  max-height:none !important;
+  object-fit:contain;
+  object-position:center;
+  margin:0 0 26px;
+}
+.footer-logo-wrap{
+  width:min(360px,100%);
+  max-width:360px;
+}
+.footer-logo-wrap img{
+  display:block;
+  width:100%;
+  height:auto !important;
+  max-height:none !important;
+  object-fit:contain;
+}
+@media(max-width:960px){
+  .brand-image{flex-basis:320px}
+  .brand-image img{width:310px;max-height:58px !important}
+  .hero-logo{max-width:390px}
+}
+@media(max-width:640px){
+  .brand-image{flex-basis:235px}
+  .brand-image img{width:230px;max-height:48px !important}
+  .hero-logo{max-width:100%}
+}
